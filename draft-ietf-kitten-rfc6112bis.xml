@@ -692,11 +692,11 @@ Love Hornquist Astrand, Jeffrey Hutzelman, and Olga Kornievskaia.</t>
 that are created in <xref target="RFC6111"/>. </t>
 
 <t>Note to IANA: Please update the following Kerberos Parameters registries:
-	<t><list style="symbols"> 
+	<list style="symbols"> 
 	<t>Well-Known Kerberos Principal Names</t>
 	<t>Well-Known Kerberos Realm Names</t>
 	<t>Pre-authentication and Typed Data</t>
-	</list></t>
+	</list>
 
 to reference this document instead of RFC6112.</t>
 
